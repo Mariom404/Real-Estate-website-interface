@@ -1,3 +1,4 @@
+This code uses html and css only to create an interface for a real estate website
 The interface should look something like this
 
 ![index1](https://github.com/user-attachments/assets/7b867a20-361f-4116-8bf8-e87574185a5d)
